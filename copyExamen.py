@@ -16,4 +16,7 @@ print("3.1 Aplica el método de mínimos cuadrados para ajustar una recta a dich
 
 print("4.1 Utiliza matplotlib para graficar los datos originales y la recta que encontraste para verificar que buscar una aproximación lineal es razonable en este caso. Tu gráfica debería tener etiquetas para las dos curvas, título en los ejes x e y, y un título general para la gráfica. ")
 
+print("Se agrega línea dos desde GitHub\n")
+
+
 print("")
