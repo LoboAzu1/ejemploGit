@@ -6,7 +6,7 @@ print("2.- Utiliza booleanos como índices para imprimir los números del arregl
 
 print("3.-  Encuentra el valor promedio del arreglo, calculado sobre la 3era dimensión (debes obtener 80 números) \n")
 
-print("\n")
+print("Se agrega línea desde GitHub\n")
 
 print("1.1.- Utiliza numpy para cargar el archivo de datos Top_secret.csv. Específicamente, del documento carga la columna con los valores Data_value y la columna con los valores para Period \n")
 
